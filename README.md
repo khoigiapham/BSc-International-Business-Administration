@@ -1,6 +1,6 @@
 # BSc_International_Business_Administration
 ## Track: Analytical Decision Maker
-## Courses: Data Engineering, Data Modeling & Analytics, Prescriptive Analytic
+## Courses: Data Engineering, Data Modeling & Analytics, Prescriptive Analytics
 ## Prgoramming language: R
 
 This repository contains a collection of data analytics projects that I've worked on during my Bachelor's degree in International Business Administration from 2019 to 2022 at  Rotterdam School of Management, Erasmus University Rotterdam.
