@@ -1,4 +1,4 @@
-# BSc_International_Business_Administration
+# BSc International Business Administration
 ## Track: Analytical Decision Maker
 ## Courses: Data Engineering, Data Modeling & Analytics, Prescriptive Analytics
 ## Programming language: R
