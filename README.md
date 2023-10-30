@@ -5,7 +5,7 @@
 ### 🛰️ Courses: 
 - 🌌 Data Engineering - B3T1101
 - 🌠 Data Modeling & Analytics - B3T1102
-- 👨‍🚀 Prescriptive Analytics 
+- 👨‍🚀 Prescriptive Analytics - B3T1103
 
 ### 💻 Programming Language: R 🖥️
 
