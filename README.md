@@ -13,7 +13,7 @@
 
 ## 🌟 Welcome to my Repository! 🌟
 
-👋 Hi there! This repository is a cosmic library of data analytics projects that I've embarked on during my bachelor degree in International Business Administration 🔭 at Rotterdam School of Management, Erasmus University Rotterdam from 2019 to 2022 👨‍🚀.
+👋 Hi there! This repository is a cosmic library of data analytics projects that I've embarked on during my International Business Administration bachelor's journey 🔭 at Rotterdam School of Management, Erasmus University Rotterdam from 2019 to 2022 👨‍🚀.
 
 ---
 
