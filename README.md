@@ -3,9 +3,9 @@
 ## 🌠 Track: Analytical Decision Maker 👨‍🚀
 
 ### 🛰️ Courses: 
-- 🌌 Data Engineering - B3T1101
-- 🌠 Data Modeling & Analytics - B3T1102
-- 👨‍🚀 Prescriptive Analytics - B3T1103
+- 🌌 B3T1101 - Data Engineering
+- 🌠 B3T1102 - Data Modeling & Analytics
+- 👨‍🚀 B3T1103 - Prescriptive Analytics  
 
 ### 💻 Programming Language: R 🖥️
 
