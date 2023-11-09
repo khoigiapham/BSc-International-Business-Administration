@@ -12,6 +12,8 @@
   - ✈️💼 [Linear Programming](https://github.com/khoigiapham/BSc-International-Business-Administration-1922/tree/main/B3T1103%20-%20Linear%20Programming)
   - 🔍🎯 [Heuristic Neighborhood Search - Approximation Algorithm](https://github.com/khoigiapham/BSc-International-Business-Administration-1922/tree/main/B3T1103%20-%20Heuristic%20Neighborhood%20Search%20-%20Approximation%20Algorithm)
   - 🎲🎒 [Heuristics Monte Carlo Simulation - Quadratic Knapsack](https://github.com/khoigiapham/BSc-International-Business-Administration-1922/tree/main/B3T1103%20-%20Heuristics%20Monte%20Carlo%20Simulation%20-%20Quadratic%20Knapsack)
+- 📝 Thesis Project
+  - 🌐👥 [How Do Brand Crises Make or Break Consumer Communities Online?](https://github.com/khoigiapham/BSc-International-Business-Administration-1922/tree/main/Thesis%20Project%20-%20How%20Do%20Brand%20Crises%20Make%20or%20Break%20Consumer%20Communities%20Online)
 
 ### 💻 Programming Language: R 🖥️
 
